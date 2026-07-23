@@ -9,23 +9,23 @@
 
 ## 📑 Table of Contents
 
-| # | Topic | Video Timestamp | Status |
-|---|-------|-----------------|--------|
-| 1 | [What is System Design?](#1-what-is-system-design) | 00:03:24 | ✅ |
-| 2 | [Case Study: Designing "Alien Bank"](#2-case-study-designing-alien-bank) | 00:05:33 | ✅ |
-| 3 | [Core Components of System Design](#3-core-components-of-system-design) | 00:19:34 | ✅ |
-| 4 | [Types of Applications: Data vs Compute Intensive](#4-types-of-applications-data-intensive-vs-compute-intensive) | 00:35:22 | ✅ |
-| 5 | [Functional & Non-Functional Requirements](#5-functional--non-functional-requirements) | 00:48:18 | ✅ |
-| 6 | DNS (Domain Name System) | 00:56:17 | 🔜 Coming soon |
-| 7 | APIs (REST, GraphQL, gRPC, WebSockets) | 01:08:25 | 🔜 Coming soon |
-| 8 | SQL & NoSQL Databases | 01:47:25 | 🔜 Coming soon |
-| 9 | Caching | 02:27:31 | 🔜 Coming soon |
-| 10 | Load Balancers | 02:53:14 | 🔜 Coming soon |
-| 11 | Replication & Partitioning | 03:23:25 | 🔜 Coming soon |
-| 12 | CAP Theorem | 03:57:20 | 🔜 Coming soon |
-| 13 | Message Queues & Pub-Sub | 04:03:40 | 🔜 Coming soon |
-| 14 | Fault Tolerance, Monitoring & Observability | 04:27:32 | 🔜 Coming soon |
-| 15 | Case Study: Streaming Application | 04:42:50 | 🔜 Coming soon |
+| # | Topic | Status |
+|---|-------|--------|
+| 1 | [What is System Design?](#1-what-is-system-design) | ✅ |
+| 2 | [Case Study: Designing "Alien Bank"](#2-case-study-designing-alien-bank) | ✅ |
+| 3 | [Core Components of System Design](#3-core-components-of-system-design)  ✅ |
+| 4 | [Types of Applications: Data vs Compute Intensive](#4-types-of-applications-data-intensive-vs-compute-intensive) | ✅ |
+| 5 | [Functional & Non-Functional Requirements](#5-functional--non-functional-requirements) | ✅ |
+| 6 | DNS (Domain Name System) | 🔜 Coming soon |
+| 7 | APIs (REST, GraphQL, gRPC, WebSockets) | 🔜 Coming soon |
+| 8 | SQL & NoSQL Databases | 🔜 Coming soon |
+| 9 | Caching | 🔜 Coming soon |
+| 10 | Load Balancers | 🔜 Coming soon |
+| 11 | Replication & Partitioning | 🔜 Coming soon |
+| 12 | CAP Theorem | 🔜 Coming soon |
+| 13 | Message Queues & Pub-Sub | 🔜 Coming soon |
+| 14 | Fault Tolerance, Monitoring & Observability | 🔜 Coming soon |
+| 15 | Case Study: Streaming Application | 🔜 Coming soon |
 
 ---
 
