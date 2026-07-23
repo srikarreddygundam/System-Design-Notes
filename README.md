@@ -13,7 +13,7 @@
 |---|-------|--------|
 | 1 | [What is System Design?](#1-what-is-system-design) | ✅ |
 | 2 | [Case Study: Designing "Alien Bank"](#2-case-study-designing-alien-bank) | ✅ |
-| 3 | [Core Components of System Design](#3-core-components-of-system-design)  ✅ |
+| 3 | [Core Components of System Design](#3-core-components-of-system-design) |  ✅ |
 | 4 | [Types of Applications: Data vs Compute Intensive](#4-types-of-applications-data-intensive-vs-compute-intensive) | ✅ |
 | 5 | [Functional & Non-Functional Requirements](#5-functional--non-functional-requirements) | ✅ |
 | 6 | DNS (Domain Name System) | 🔜 Coming soon |
